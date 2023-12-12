@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\bin\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.exe
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\bin\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.deps.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\bin\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.runtimeconfig.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\bin\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\bin\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\refint\Atividade34_Vetores_SimulandoTabelas.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\Atividade34_Vetores_SimulandoTabelas.genruntimeconfig.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade34_Vetores_SimulandoTabelas\obj\Debug\net7.0\ref\Atividade34_Vetores_SimulandoTabelas.dll

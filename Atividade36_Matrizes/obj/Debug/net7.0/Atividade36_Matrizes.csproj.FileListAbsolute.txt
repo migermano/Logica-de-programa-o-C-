@@ -1,0 +1,4 @@
+C:\Users\97529\Desktop\UdemyLogica\Atividade36_Matrizes\obj\Debug\net7.0\Atividade36_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\Atividade36_Matrizes\obj\Debug\net7.0\Atividade36_Matrizes.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade36_Matrizes\obj\Debug\net7.0\Atividade36_Matrizes.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\Atividade36_Matrizes\obj\Debug\net7.0\Atividade36_Matrizes.csproj.CoreCompileInputs.cache

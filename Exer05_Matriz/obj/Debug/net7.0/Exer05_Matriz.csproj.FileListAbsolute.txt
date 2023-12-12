@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.AssemblyInfo.cs
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\bin\Debug\net7.0\Exer05_Matriz.exe
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\bin\Debug\net7.0\Exer05_Matriz.deps.json
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\bin\Debug\net7.0\Exer05_Matriz.runtimeconfig.json
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\bin\Debug\net7.0\Exer05_Matriz.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\bin\Debug\net7.0\Exer05_Matriz.pdb
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\refint\Exer05_Matriz.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.pdb
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\Exer05_Matriz.genruntimeconfig.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Exer05_Matriz\obj\Debug\net7.0\ref\Exer05_Matriz.dll

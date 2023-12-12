@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\bin\Debug\net7.0\Atividade32_Vetores.exe
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\bin\Debug\net7.0\Atividade32_Vetores.deps.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\bin\Debug\net7.0\Atividade32_Vetores.runtimeconfig.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\bin\Debug\net7.0\Atividade32_Vetores.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\bin\Debug\net7.0\Atividade32_Vetores.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\refint\Atividade32_Vetores.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\Atividade32_Vetores.genruntimeconfig.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade32_Vetores\obj\Debug\net7.0\ref\Atividade32_Vetores.dll

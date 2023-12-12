@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.AssemblyInfo.cs
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\bin\Debug\net7.0\Atividade38_Matrizes.exe
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\bin\Debug\net7.0\Atividade38_Matrizes.deps.json
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\bin\Debug\net7.0\Atividade38_Matrizes.runtimeconfig.json
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\bin\Debug\net7.0\Atividade38_Matrizes.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\bin\Debug\net7.0\Atividade38_Matrizes.pdb
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\refint\Atividade38_Matrizes.dll
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.pdb
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\Atividade38_Matrizes.genruntimeconfig.cache
+C:\Users\97529\Desktop\WebSupply\C#\UdemyLogica\Atividade38_Matrizes\obj\Debug\net7.0\ref\Atividade38_Matrizes.dll

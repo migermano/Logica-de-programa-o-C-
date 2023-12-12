@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\bin\Debug\net7.0\Atividade35_SINTAXE_foreach.exe
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\bin\Debug\net7.0\Atividade35_SINTAXE_foreach.deps.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\bin\Debug\net7.0\Atividade35_SINTAXE_foreach.runtimeconfig.json
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\bin\Debug\net7.0\Atividade35_SINTAXE_foreach.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\bin\Debug\net7.0\Atividade35_SINTAXE_foreach.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\refint\Atividade35_SINTAXE_foreach.dll
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.pdb
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\Atividade35_SINTAXE_foreach.genruntimeconfig.cache
+C:\Users\97529\Desktop\UdemyLogica\Atividade35_SINTAXE_foreach\obj\Debug\net7.0\ref\Atividade35_SINTAXE_foreach.dll

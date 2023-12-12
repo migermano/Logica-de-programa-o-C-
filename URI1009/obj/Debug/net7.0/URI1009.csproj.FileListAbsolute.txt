@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\URI1009\bin\Debug\net7.0\URI1009.exe
+C:\Users\97529\Desktop\UdemyLogica\URI1009\bin\Debug\net7.0\URI1009.deps.json
+C:\Users\97529\Desktop\UdemyLogica\URI1009\bin\Debug\net7.0\URI1009.runtimeconfig.json
+C:\Users\97529\Desktop\UdemyLogica\URI1009\bin\Debug\net7.0\URI1009.dll
+C:\Users\97529\Desktop\UdemyLogica\URI1009\bin\Debug\net7.0\URI1009.pdb
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.dll
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\refint\URI1009.dll
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.pdb
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\URI1009.genruntimeconfig.cache
+C:\Users\97529\Desktop\UdemyLogica\URI1009\obj\Debug\net7.0\ref\URI1009.dll

@@ -1,0 +1,14 @@
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.AssemblyInfoInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.AssemblyInfo.cs
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.csproj.CoreCompileInputs.cache
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\bin\Debug\net7.0\Exerc01_Vetor.exe
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\bin\Debug\net7.0\Exerc01_Vetor.deps.json
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\bin\Debug\net7.0\Exerc01_Vetor.runtimeconfig.json
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\bin\Debug\net7.0\Exerc01_Vetor.dll
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\bin\Debug\net7.0\Exerc01_Vetor.pdb
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.dll
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\refint\Exerc01_Vetor.dll
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.pdb
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\Exerc01_Vetor.genruntimeconfig.cache
+C:\Users\97529\Desktop\UdemyLogica\Exerc01_Vetor\obj\Debug\net7.0\ref\Exerc01_Vetor.dll
